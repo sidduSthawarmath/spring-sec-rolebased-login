@@ -18,6 +18,7 @@
 
 	<import resource="security-config.xml" />
 
+
 	<!-- Activates various annotations to be detected in bean classes e.g: @Autowired -->
 	<context:annotation-config />
 
